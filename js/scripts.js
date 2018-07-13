@@ -5,8 +5,8 @@ $(document).ready(function() {
 
         var num = parseInt($("input#number").val());
         var no = Number(num);
-        no.forEach(function(aftermath) {
-            $("#results").append("<li>" + aftermath + "</li>");
+        no.forEach(function(math) {
+            $("#results").append("<li>" + math + "</li>");
            
         });
 
@@ -17,7 +17,7 @@ $(document).ready(function() {
 // jQuery user interface logic here
  
     
-    var Number = function aftermath(num) {
+    var Number = function math(num) {
         var no = [];
         for(index=1; index<= num; index+=1) {
 
