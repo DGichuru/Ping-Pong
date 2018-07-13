@@ -14,3 +14,7 @@
 #pong {
     
 }
+
+#result {
+    display: none;
+}
