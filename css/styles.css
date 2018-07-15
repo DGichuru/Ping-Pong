@@ -21,3 +21,8 @@
     background-position: center;
     
 }
+
+.btn {
+    background-color: blueviolet;
+    scrollbar-shadow-color: bisque;
+}
