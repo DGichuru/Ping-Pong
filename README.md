@@ -1,7 +1,7 @@
 # Ping-Pong
 Divisibility
 ## Description
- This project is about the Divisibility of 3, 5 and 15 where the number inputed is produced as a string and 'ping' 'pong' and 'pingpong' are pushed into the string to show divisible numbers.
+ This project is about the Divisibility of 3, 5 and 15 where the number inputed is produced as a string and 'ping' 'pong' and 'pingpong' are pushed into the array to show divisible numbers.
  
  Link to my web site: https://dgichuru.github.io/Ping-Pong/
  ## Prerequisites
